@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '9cb52be9019440f69aa0987ed6a285f9',
+  rootNotionPageId: 'Oceans-22-DAO-9cb52be9019440f69aa0987ed6a285f9',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Oceans 22',
-  domain: 'transitivebullsh.it',
+  domain: 'https://oceans22.org',
   author: 'Oceans 22 DAO',
 
   // open graph metadata (optional)
