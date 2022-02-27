@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: 'Oceans 22',
   domain: 'https://oceans22.org',
-  author: 'Oceans 22 DAO',
+  author: 'Oceans 22 DAO ',
 
   // open graph metadata (optional)
   description: 'Oceans 22 Knowledgebase',
